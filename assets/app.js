@@ -14,9 +14,7 @@ import './bootstrap';
 import Vue from 'vue';
 
 import Routes from './js/routes.js';
-import {Vuelidate} from "vuelidate";
 
-Vue.use(Vuelidate);
 import App from './js/views/App';
 import { store } from './js/store/store'
 import axios from "axios";

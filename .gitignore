@@ -34,3 +34,4 @@ yarn-error.log
 /package-lock.json
 /composer.lock
 /node_modules/
+/public/build/
